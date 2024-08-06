@@ -1,0 +1,29 @@
+.bg-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  height: 70%;
+  width: 60%;
+  border-radius: 10px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.heading {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 28px;
+  color: #ff8542;
+  font-weight: bold;
+}
+.list-items {
+  list-style-type: none;
+}
